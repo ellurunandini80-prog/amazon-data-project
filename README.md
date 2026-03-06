@@ -1,33 +1,45 @@
-# Amazon Smartphone Data Analysis 📱
+# 📱 Amazon Smartphone Data Analysis
 
-## Overview
-This project analyzes Amazon smartphone listings to understand customer engagement,
-pricing trends, and product popularity using ratings and review counts.
+## 📌 Project Overview
+This project analyzes smartphone listings from Amazon to understand customer engagement, pricing trends, and product popularity using ratings and review counts.
 
-## Dataset
-- Source: Amazon product listings
-- Features:
-  - Product
-  - Price
-  - Rating
-  - Rating Count
-  - Product URL
+## 📊 Dataset
+Source: Amazon smartphone product listings
 
-## Tools & Technologies
+Features used:
+- Product Name
+- Price
+- Rating
+- Rating Count
+- Product URL
+
+## 🛠 Tools & Technologies
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook (VS Code)
+- Jupyter Notebook
+- VS Code
 
-## Key Insights
-- Budget smartphones dominate customer engagement with very high review counts.
-- Premium phones (Apple, Samsung) maintain strong ratings but receive fewer reviews.
-- Review count is a stronger trust indicator than rating alone.
-- Mid-range phones offer the best balance of price and customer satisfaction.
+## 📈 Analysis Performed
+- Data cleaning and preprocessing
+- Analysis of smartphone ratings and review counts
+- Identification of most reviewed smartphones
+- Visualization using bar charts
 
-## Visualization
-- Top 10 most reviewed smartphones visualized using bar charts.
+## 🔍 Key Insights
+- Budget smartphones receive the highest number of reviews.
+- Premium phones maintain strong ratings but receive fewer reviews.
+- Review count is a stronger indicator of popularity than rating alone.
+- Mid-range smartphones provide the best balance of price and customer satisfaction.
 
-## Conclusion
-Affordable smartphones achieve higher market penetration on Amazon due to higher
-trust built through large volumes of customer reviews.
+## 📊 Visualization
+Top 10 most reviewed smartphones were visualized using bar charts.
+
+## ✅ Conclusion
+Affordable smartphones achieve higher customer engagement on Amazon due to a larger number of customer reviews and better market reach.
+
+## 👩‍💻 Author
+Elluru Nandini  
+B.Tech – Computer Science and Engineering  
+Aspiring Data Analyst | Python Enthusiast  
+GitHub: https://github.com/ellurunandini80-prog
