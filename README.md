@@ -34,6 +34,7 @@ Features used:
 
 ## 📊 Visualization
 Top 10 most reviewed smartphones were visualized using bar charts.
+![Top Reviewed Smartphones](chart.png)
 
 ## ✅ Conclusion
 Affordable smartphones achieve higher customer engagement on Amazon due to a larger number of customer reviews and better market reach.
